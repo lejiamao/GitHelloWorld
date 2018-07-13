@@ -8,7 +8,7 @@
         欢迎使用 ASP.NET!
     </h2>
     <p>
-        tototo <a href="http://www.asp.net/cn" title="ASP.NET 网站">www.asp.net/cn</a>。
+        wangtao <a href="http://www.asp.net/cn" title="ASP.NET 网站">www.asp.net/cn</a>。
     </p>
     <p>
         您还可以找到 <a href="http://go.microsoft.com/fwlink/?LinkID=152368"
